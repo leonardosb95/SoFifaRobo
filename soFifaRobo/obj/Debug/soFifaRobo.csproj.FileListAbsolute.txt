@@ -1,0 +1,11 @@
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\bin\Debug\soFifaRobo.exe.config
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\bin\Debug\soFifaRobo.exe
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\bin\Debug\soFifaRobo.pdb
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\bin\Debug\WebDriver.dll
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\bin\Debug\WebDriver.Support.dll
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\bin\Debug\WebDriver.xml
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\bin\Debug\WebDriver.Support.xml
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.csprojResolveAssemblyReference.cache
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.exe
+C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.pdb
