@@ -9,3 +9,16 @@ C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.csprojRes
 C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.csproj.CoreCompileInputs.cache
 C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.exe
 C:\Users\leona\source\repos\soFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.pdb
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\bin\Debug\soFifaRobo.exe.config
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\bin\Debug\soFifaRobo.exe
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\bin\Debug\soFifaRobo.pdb
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\bin\Debug\WebDriver.dll
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\bin\Debug\WebDriver.Support.dll
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\bin\Debug\WebDriver.xml
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\bin\Debug\WebDriver.Support.xml
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.csprojAssemblyReference.cache
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.csproj.CoreCompileInputs.cache
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.csproj.CopyComplete
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.exe
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\obj\Debug\soFifaRobo.pdb
+C:\Users\lbispo\source\repos\SoFifaRobo\soFifaRobo\bin\Debug\Blun.ConfigurationManager.dll

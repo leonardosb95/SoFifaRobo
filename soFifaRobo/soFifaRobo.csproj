@@ -34,9 +34,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Blun.ConfigurationManager, Version=1.0.5686.2674, Culture=neutral, PublicKeyToken=f5a0a2e6b25dfd56, processorArchitecture=MSIL">
+      <HintPath>..\packages\Blun.ConfigurationManager.1.0.5686.2674\lib\net40\Blun.ConfigurationManager.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,6 +56,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dao\AplicacaoDao.cs" />
+    <Compile Include="Dao\Conexao.cs" />
     <Compile Include="Models\Jogador.cs" />
     <Compile Include="Models\LocalizacaoJogador.cs" />
     <Compile Include="Test\Program.cs" />
@@ -63,7 +70,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Dao\" />
     <Folder Include="Views\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
